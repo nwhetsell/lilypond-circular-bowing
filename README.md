@@ -1,6 +1,6 @@
 # lilypond-circular-bowing
 
-You can use the file [circular-bowing.ily](circular-bowing.ily) in this repository to add unstressed articulations to notes in LilyPond v2.24.0 or later. For example, running:
+You can use the file [circular-bowing.ily](circular-bowing.ily) in this repository to add circular bowing articulations to notes in LilyPond v2.24.0 or later. For example, running:
 
 ```sh
 lilypond --output=circular-bowing --svg - <<EOS
