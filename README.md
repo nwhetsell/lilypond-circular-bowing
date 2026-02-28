@@ -14,7 +14,7 @@ lilypond --output=circular-bowing --svg - <<EOS
   oddFooterMarkup = ##f
 }
 \pointAndClickOff
-{ \clef "bass" c1\circular-bowing }
+{ c''1\circular-bowing }
 EOS
 ```
 
